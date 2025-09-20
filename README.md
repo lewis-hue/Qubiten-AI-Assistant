@@ -4,6 +4,10 @@
 
 The application features a modern web interface with client-side document processing, voice-to-text transcription via Google Cloud Speech-to-Text, and is architected for stateless, scalable deployment on Google Cloud Run using Docker.
 
+## Chatbot Live Demo
+
+src=https://github.com/lewis-hue/Qubiten-AI-Assistant/blob/main/chatbot%20Live%20Demo.mp4
+
 ---
 
 ## 📋 Project Overview
