@@ -1,4 +1,4 @@
-# Qubiten AI Compliance Assistant
+# Production-Grade Serverless RAG Application: A Full-Stack LLM System for Secure Document Analysis and Constitutional Compliance
 
 **Qubiten AI** is a full-stack, production-grade chatbot application designed for intelligent document analysis and constitutional compliance. It leverages a Retrieval-Augmented Generation (RAG) system powered by the Groq LLaMA 3.1 LLM to provide context-aware, accurate, and streaming answers based on the Constitution of Kenya, 2010.
 
