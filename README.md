@@ -6,7 +6,9 @@ The application features a modern web interface with client-side document proces
 
 ## Chatbot Live Demo
 
-src=https://github.com/lewis-hue/Qubiten-AI-Assistant/blob/main/chatbot%20Live%20Demo.mp4
+<video src="https://github.com/lewis-hue/Qubiten-AI-Assistant/blob/main/chatbot%20Live%20Demo.mp4?raw=true" width="100%" controls="controls">
+  Your browser does not support the video tag. You can watch the demo directly on <a href="https://github.com/lewis-hue/Qubiten-AI-Assistant/blob/main/chatbot%20Live%20Demo.mp4">GitHub</a>.
+</video>
 
 ---
 
