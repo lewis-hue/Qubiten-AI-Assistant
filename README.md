@@ -4,18 +4,18 @@
 
 The application features a modern web interface with client-side document processing, voice-to-text transcription via Google Cloud Speech-to-Text, and is architected for stateless, scalable deployment on Google Cloud Run using Docker.
 
+## Chatbot Live Demo
+
+Click the GIF below to watch the full video demo.
+
+[<img src="https://raw.githubusercontent.com/lewis-hue/Qubiten-AI-Assistant/main/demo.gif" width="100%">](https://github.com/lewis-hue/Qubiten-AI-Assistant/blob/main/chatbot%20Live%20Demo.mp4)
+
 
 ---
 
 ## 📋 Project Overview
 
 The Qubiten AI Assistant is an expert AI consultant specializing in legal and compliance document analysis. **The system's core function is to empower users by not only providing answers from the constitution but by actively analyzing their queries to deliver clear, actionable guidance on the specific compliance obligations they need to meet.** Users can ask questions directly, upload documents with their queries for detailed analysis, or use their voice for transcription. The system is designed with a **stateless architecture** and a smart **client-side data processing** model, optimizing for security, performance, and cost-efficiency in a production environment.
-
-## Chatbot Live Demo
-
-<video src="https://github.com/lewis-hue/Qubiten-AI-Assistant/blob/main/chatbot%20Live%20Demo.mp4?raw=true" width="100%" controls="controls">
-  Your browser does not support the video tag. You can watch the demo directly on <a href="https://github.com/lewis-hue/Qubiten-AI-Assistant/blob/main/chatbot%20Live%20Demo.mp4">GitHub</a>.
-</video>
 
 
 ## ✨ Core Features
